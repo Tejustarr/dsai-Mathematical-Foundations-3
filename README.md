@@ -1,12 +1,11 @@
-# dsai-Mathematical-Foundations-2
+# dsai-Mathematical-Foundations-3 (Fixed & Deep)
 
-Deep, community-standard course materials for Mathematical Foundations for Data Science.
+This repository is a fixed, deep, GitHub-friendly version of the Mathematical Foundations course.
+It contains self-contained session modules under `sessions/` (Session 1..6), each with:
+- lecture notes (Markdown with GitHub-friendly LaTeX using $...$ and $$...$$)
+- slide markdown
+- notebooks (runnable)
+- exercises, autograder templates, datasets, mini-projects
+- instructor solutions and rubrics
 
-**Learning outcomes (course-level)**:
-- Understand linear algebra fundamentals used in data science.
-- Represent and manipulate data as vectors and matrices.
-- Compute eigenvalues/eigenvectors, SVD/PCA for dimensionality reduction.
-- Differentiate functions and apply optimization algorithms (GD/SGD).
-- Build simple ML models from first principles using math + numpy.
-
-Repo structure follows community standards: lectures (theory), sessions (deep hands-on modules), resources, assignments, quizzes, instructor_materials, and tooling (autograder skeleton).
+Replace your current repository contents with this folder if you want the fully fixed version.
