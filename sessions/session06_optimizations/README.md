@@ -1,18 +1,19 @@
-# Session 6 — Optimization Methods
+# Session 6 — Function Optimizations (Deep)
 
-**Session learning outcomes**:
-- Understand first-order optimization: GD, SGD, momentum, adaptive methods
-- Implement gradient descent variants and observe behavior
-- Relate step-size, conditioning, and convergence
+**Duration:** 180 minutes  
+**Prerequisites:** Sessions 1–5 (linear algebra, derivatives, gradients).  
 
-## Notebooks (with short descriptions)
-- `01_optimization_basics.ipynb` — Maxima/minima, convex vs non-convex intuition.
-- `02_gradient_descent.ipynb` — Batch GD derivation and code, learning rate effects.
-- `03_sgd_and_variants.ipynb` — SGD, mini-batch, momentum, Adam (math + pseudocode).
+**Topics:**
+- Introduction to optimization: maxima & minima
+- Convex vs non-convex functions
+- First-order optimization algorithms
+- Gradient Descent (GD)
+- Stochastic Gradient Descent (SGD) and variants
+- Learning rate schedules and convergence
 
-## Exercises
-- `optimization_quiz.md` — Problems on convergence, step-size selection, and proofs for convex quadratic.
-- `experiments_lab.ipynb` — Compare GD/SGD/Adam on simple losses; visualize trajectories.
-
-## Mini-project
-- `logistic_regression_optimization.ipynb` — Train logistic regression via different optimizers; tune hyperparameters; report results.
+**Learning Outcomes:**
+- Identify and classify critical points (local/global, convexity)
+- Understand first-order optimality conditions
+- Implement gradient descent for convex & non-convex functions
+- Implement stochastic gradient descent for ML problems
+- Compare optimization algorithms experimentally
