@@ -1,4 +1,8 @@
-<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
+
+![](https://render.githubusercontent.com/render/math?math=...)
+
+ -->
 
 
 # Lecture Notes — Session 3: Linear Algebra for Machine Learning

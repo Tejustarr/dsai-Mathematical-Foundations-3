@@ -1,4 +1,8 @@
-<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
+
+![](https://render.githubusercontent.com/render/math?math=...)
+
+ -->
 
 # Theory Solutions
 1. Symmetric: Σ^T=(X^TX)^T=X^TX=Σ. PSD: v^TΣv=||Xv||^2 ≥0.

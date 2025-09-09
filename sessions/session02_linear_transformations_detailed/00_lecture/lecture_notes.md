@@ -1,18 +1,22 @@
-<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
+
+![](https://render.githubusercontent.com/render/math?math=...)
+
+ -->
 
 
 # Lecture Notes — Session 2: Linear Transformations
 
 ## 1. Basic matrix transformations in R^2
-- **Scaling:** $S = \begin{bmatrix}s_x & 0 \\ 0 & s_y\end{bmatrix}$
-- **Rotation:** $R(\theta) = \begin{bmatrix}\cos\theta & -\sin\theta \\ \sin\theta & \cos\theta\end{bmatrix}$
-- **Reflection:** across x-axis $\begin{bmatrix}1&0\\0&-1\end{bmatrix}$, y-axis $\begin{bmatrix}-1&0\\0&1\end{bmatrix}$
-- **Shear:** $\begin{bmatrix}1 & k \\ 0 & 1\end{bmatrix}$
+- **Scaling:** ![](https://render.githubusercontent.com/render/math?math=S+%3D+%5Cbegin%7Bbmatrix%7Ds_x+%26+0+%5C%5C+0+%26+s_y%5Cend%7Bbmatrix%7D)
+- **Rotation:** ![](https://render.githubusercontent.com/render/math?math=R%28%5Ctheta%29+%3D+%5Cbegin%7Bbmatrix%7D%5Ccos%5Ctheta+%26+-%5Csin%5Ctheta+%5C%5C+%5Csin%5Ctheta+%26+%5Ccos%5Ctheta%5Cend%7Bbmatrix%7D)
+- **Reflection:** across x-axis ![](https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bbmatrix%7D1%260%5C%5C0%26-1%5Cend%7Bbmatrix%7D), y-axis ![](https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bbmatrix%7D-1%260%5C%5C0%261%5Cend%7Bbmatrix%7D)
+- **Shear:** ![](https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bbmatrix%7D1+%26+k+%5C%5C+0+%26+1%5Cend%7Bbmatrix%7D)
 
-All these are special cases of linear transformations $T(x) = Ax$.
+All these are special cases of linear transformations ![](https://render.githubusercontent.com/render/math?math=T%28x%29+%3D+Ax).
 
 ## 2. Determinant
-For a square matrix $A$, det(A) is:
+For a square matrix ![](https://render.githubusercontent.com/render/math?math=A), det(A) is:
 - Signed volume scaling factor of the linear map
 - det=0 => not invertible
 - det<0 => orientation reversed
@@ -26,10 +30,10 @@ For a square matrix $A$, det(A) is:
 
 ## 3. Inverse
 A^-1 exists iff det(A)≠0.
-Defined by: $A^{-1} A = I$.
+Defined by: ![](https://render.githubusercontent.com/render/math?math=A%5E%7B-1%7D+A+%3D+I).
 
 **Formula for 2x2:**
-$A = \begin{bmatrix}a&b\\c&d\end{bmatrix},\ A^{-1} = \frac{1}{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}$.
+![](https://render.githubusercontent.com/render/math?math=A+%3D+%5Cbegin%7Bbmatrix%7Da%26b%5C%5Cc%26d%5Cend%7Bbmatrix%7D%2C%5C+A%5E%7B-1%7D+%3D+%5Cfrac%7B1%7D%7Bad-bc%7D%5Cbegin%7Bbmatrix%7Dd%26-b%5C%5C-c%26a%5Cend%7Bbmatrix%7D).
 
 ## 4. Special matrices
 - Diagonal: easy det (product of diag), inverse is reciprocal diag entries

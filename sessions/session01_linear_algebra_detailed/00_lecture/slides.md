@@ -1,4 +1,8 @@
-<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
+
+![](https://render.githubusercontent.com/render/math?math=...)
+
+ -->
 
 
 # Slides — Session 1 (Markdown slide-style)
@@ -38,26 +42,15 @@ $$
 ```
 
 
-$$
----  
-## Slide: Matrix types & examples
-- Identity, diagonal, symmetric, orthogonal
-- Example: rotation matrix in 2D
-$$
+
+
+![](https://render.githubusercontent.com/render/math?math=---++%0A%23%23+Slide%3A+Matrix+types+%26+examples%0A-+Identity%2C+diagonal%2C+symmetric%2C+orthogonal%0A-+Example%3A+rotation+matrix+in+2D)
+
+
 R(\theta)=\begin{bmatrix}\cos\theta & -\sin\theta\\ \sin\theta & \cos\theta\end{bmatrix}
-$$
 
----  
-## Slide: Projection & least squares (formula)
-- Projection matrix $P = A(A^T A)^{-1} A^T$
-- Least squares solution $\hat x = (A^T A)^{-1} A^T b$
 
----  
-## Slide: Applications
-- PCA, linear regression, image transforms, embeddings
+![](https://render.githubusercontent.com/render/math?math=---++%0A%23%23+Slide%3A+Projection+%26+least+squares+%28formula%29%0A-+Projection+matrix+%24P+%3D+A%28A%5ET+A%29%5E%7B-1%7D+A%5ET%24%0A-+Least+squares+solution+%24%5Chat+x+%3D+%28A%5ET+A%29%5E%7B-1%7D+A%5ET+b%24%0A%0A---++%0A%23%23+Slide%3A+Applications%0A-+PCA%2C+linear+regression%2C+image+transforms%2C+embeddings%0A%0A---++%0A%23%23+Slide%3A+References+%26+next+session%0A-+Strang+ch.1%E2%80%932%2C+numpy+docs)
 
----  
-## Slide: References & next session
-- Strang ch.1–2, numpy docs
-$$
+
 

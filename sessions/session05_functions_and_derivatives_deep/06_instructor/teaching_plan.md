@@ -1,4 +1,8 @@
-<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
+
+![](https://render.githubusercontent.com/render/math?math=...)
+
+ -->
 
 # Teaching Plan (3 hours split as 2 lectures)
 
