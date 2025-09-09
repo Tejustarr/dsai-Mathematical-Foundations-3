@@ -1,3 +1,9 @@
-# Final Project
+# Final Project — Integrative ML from First Principles
 
-Combine linear algebra, calculus and optimization to build an ML model from scratch.
+**Session learning outcomes**:
+
+## Notebooks (with short descriptions)
+
+## Exercises
+
+## Mini-project
