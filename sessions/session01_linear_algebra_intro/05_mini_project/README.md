@@ -1,0 +1,1 @@
+Starter files for mini-project. See project_prompt.md for brief.

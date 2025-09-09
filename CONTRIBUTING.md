@@ -1,7 +1,4 @@
-<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
-
-![](https://render.githubusercontent.com/render/math?math=...)
-
- -->
-
-Please open PRs.
+# Contributing
+- Open issues for missing content.
+- PRs should include tests/examples where applicable.
+- Use the PR template in .github/.

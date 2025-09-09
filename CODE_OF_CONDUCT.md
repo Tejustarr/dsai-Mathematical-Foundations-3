@@ -1,7 +1,2 @@
-<!-- Math rendered using GitHub Markdown: use ![](https://render.githubusercontent.com/render/math?math=...) and 
-
-![](https://render.githubusercontent.com/render/math?math=...)
-
- -->
-
-# Be nice.
+# Code of Conduct
+Be kind. Be constructive. Follow standard open-source conduct.
