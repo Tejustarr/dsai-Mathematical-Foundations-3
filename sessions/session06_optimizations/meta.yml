@@ -1,0 +1,9 @@
+title: "Session 6 — Function Optimizations"
+duration_minutes: 180
+prerequisites: ["session05_functions_and_derivatives"]
+learning_outcomes:
+  - "Identify maxima, minima, saddle points using gradient and Hessian"
+  - "Understand convex functions and their properties"
+  - "Implement and analyze Gradient Descent"
+  - "Implement Stochastic Gradient Descent and compare to GD"
+  - "Tune learning rate and observe convergence"
