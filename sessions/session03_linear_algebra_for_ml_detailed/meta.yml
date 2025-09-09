@@ -1,0 +1,8 @@
+title: "Session 3 — Linear Algebra for Machine Learning"
+duration_minutes: 150
+prerequisites: ["session01_linear_algebra_intro","session02_linear_transformations"]
+learning_outcomes:
+  - "Model ML problems in linear algebra form"
+  - "Derive linear regression solution using normal equations"
+  - "Represent images as matrices and apply basic operations"
+  - "Implement linear transformations and filtering of images"
