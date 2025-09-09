@@ -1,0 +1,9 @@
+title: "Session 5 — Functions and its Derivatives"
+duration_minutes: 180
+prerequisites: ["session01_linear_algebra_intro","session02_linear_transformations","session03_linear_algebra_for_ml","session04_applications_pca_svd"]
+learning_outcomes:
+  - "Recognize and represent different types of functions"
+  - "Compute derivatives of single-variable and multivariable functions"
+  - "Use Jacobian/Hessian for mapping and curvature information"
+  - "Perform numerical differentiation and gradient checking reliably"
+  - "Apply derivatives to optimization and ML loss functions"
