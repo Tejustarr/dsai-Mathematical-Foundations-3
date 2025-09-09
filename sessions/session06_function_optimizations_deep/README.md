@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Session 6 — Function Optimizations (Deep)
 
 **Duration:** 180 minutes  

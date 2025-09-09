@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Problems — Session 5
 
 1. Prove the product and chain rules starting from the limit definition of derivative.

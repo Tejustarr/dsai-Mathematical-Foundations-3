@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Lecture Notes — Session 1: Introduction to Linear Algebra
 

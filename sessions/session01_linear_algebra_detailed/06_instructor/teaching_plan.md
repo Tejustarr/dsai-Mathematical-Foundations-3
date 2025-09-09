@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Teaching Plan (90 minutes)
 - 0-10 min: Motivation & applications (slides)
 - 10-30 min: Vector operations + numpy demo (nb_01)

@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Problems — Session 3
 
 1. Derive normal equations for linear regression.

@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Mini-Project: GD vs SGD for Logistic Regression
 
 Dataset: synthetic binary classification.

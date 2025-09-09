@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Session 1 — Introduction to Linear Algebra
 
 **Duration:** 90–120 minutes  

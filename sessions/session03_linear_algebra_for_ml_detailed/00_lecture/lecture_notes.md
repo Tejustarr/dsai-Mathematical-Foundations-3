@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Lecture Notes — Session 3: Linear Algebra for Machine Learning
 

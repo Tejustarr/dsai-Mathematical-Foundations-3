@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Session 2 — Linear Transformations
 
 **Duration:** 120 minutes  

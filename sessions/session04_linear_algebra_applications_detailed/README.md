@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Session 4 — Linear Algebra Applications
 
 **Duration:** 150 minutes  

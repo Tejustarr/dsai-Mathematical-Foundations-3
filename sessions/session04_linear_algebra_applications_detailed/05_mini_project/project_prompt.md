@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Mini-Project: Face Image Compression with SVD
 
 Dataset: small set of face images (grayscale).

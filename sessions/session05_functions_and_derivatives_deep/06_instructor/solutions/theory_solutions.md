@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Solutions — Theory Problems (sketches)
 
 1. Product rule proof: Start from limit definition f'g = lim (f(x+h)g(x+h)-f(x)g(x))/h ; add and subtract f(x+h)g(x) etc.

@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Slides — Session 2 Linear Transformations
 
@@ -5,11 +7,15 @@
 ## Slide: Transformations
 Scaling, rotation, shear, reflection.
 
-```mermaid
+
+```
 flowchart LR
 v["v"]
 R["Rotation Matrix"]
 v --> R --> vR["R(v)"]
+
+```
+
 ```
 
 ---  
@@ -31,3 +37,4 @@ Orthogonalization by projection subtraction.
 ## Slide: Eigen decomposition
 - Solve det(A-λI)=0
 - Eigenbasis: diagonalize A
+```

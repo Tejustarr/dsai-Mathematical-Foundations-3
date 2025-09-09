@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Session 5 — Functions & Derivatives (Deep)
 
 **Duration:** 180 minutes (can be split across two classes)  

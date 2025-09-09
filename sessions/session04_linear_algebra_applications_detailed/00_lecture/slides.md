@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Slides — Session 4 Linear Algebra Applications
 

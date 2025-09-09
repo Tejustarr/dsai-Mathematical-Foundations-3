@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Slides — Session 1 (Markdown slide-style)
 
@@ -17,7 +19,8 @@
 
 ---  
 ## Slide: Change of basis (diagram)
-```mermaid
+
+```
 flowchart LR
 $$
 subgraph StandardBasis
@@ -31,8 +34,11 @@ end
 vB --> P["P (change-of-basis)"]
 P --> v
 $$
+
 ```
 
+
+$$
 ---  
 ## Slide: Matrix types & examples
 - Identity, diagonal, symmetric, orthogonal
@@ -53,3 +59,5 @@ $$
 ---  
 ## Slide: References & next session
 - Strang ch.1–2, numpy docs
+$$
+

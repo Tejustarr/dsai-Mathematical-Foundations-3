@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Problems — Session 2
 
 1. Compute determinant of 3x3 matrix by cofactor expansion and verify matches numpy result.

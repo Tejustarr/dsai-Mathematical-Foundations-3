@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Teaching Plan (3 hours split as 2 lectures)
 
 Lecture A (90 min):

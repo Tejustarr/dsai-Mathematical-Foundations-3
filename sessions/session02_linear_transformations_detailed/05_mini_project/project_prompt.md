@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Mini-Project: Eigenfaces Simplified (Tiny PCA)
 
 Take a small set of 2D points or grayscale images.

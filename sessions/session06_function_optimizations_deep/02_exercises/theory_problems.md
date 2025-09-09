@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Problems — Session 6
 
 1. For f(x)=x^4-2x^2, find critical points and classify with second derivative test.

@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Lecture Notes — Session 5: Functions & Derivatives (Deep)
 

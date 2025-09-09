@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Solutions
 1. Compute by expansion and compare with numpy.
 2. Use det(AB)=det(A)det(B) proven by properties of multilinear forms.

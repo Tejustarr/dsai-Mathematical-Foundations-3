@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Mini-Project: 2D Transformation Visualizer
 
 **Goal:** Build a small notebook that demonstrates linear transformations (rotation, scaling, shear, reflection) applied to a 2D point-set. Provide:

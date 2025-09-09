@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Problems — Session 4
 
 1. Show that covariance matrix is symmetric and PSD.

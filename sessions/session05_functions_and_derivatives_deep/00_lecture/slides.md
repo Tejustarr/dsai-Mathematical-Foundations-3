@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 
 # Slides — Session 5 Functions & Derivatives
 
@@ -12,7 +14,8 @@
 
 ---  
 ## Slide: Chain rule (visual)
-```mermaid
+
+```
 flowchart LR
 x["x"]
 g["g(x)"]
@@ -23,6 +26,9 @@ subgraph deriv
   df["f'(g(x))"] --> mul
   mul --> out["(f∘g)'"]
 end
+
+```
+
 ```
 
 ---  
@@ -39,3 +45,4 @@ end
 ## Slide: Applications in ML
 - gradients for loss functions (MSE, logistic)
 - Hessian in Newton's method
+```

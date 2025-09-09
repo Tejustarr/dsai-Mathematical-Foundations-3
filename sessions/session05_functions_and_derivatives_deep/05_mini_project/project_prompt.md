@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Mini-Project: Derivatives in Practice — Logistic Regression from First Principles
 
 **Objective**: Derive gradients and Hessians for logistic loss; implement optimization methods and compare.

@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Session 3 — Linear Algebra for Machine Learning
 
 **Duration:** 120–150 minutes  

@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Solutions — Theory Problems
 
 1. v2 = 2*v1 so v1 and v2 are dependent. Rank <=2. v3 is independent from v1 so basis {v1,v3} spans same subspace. Dimension = 2.

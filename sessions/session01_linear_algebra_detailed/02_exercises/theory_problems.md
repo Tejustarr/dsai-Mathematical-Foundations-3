@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # Theory Problems — Session 1
 
 1. (Span & basis) Let v1 = [1,2,3]^T, v2 = [2,4,6]^T, v3 = [0,1,1]^T in R^3.

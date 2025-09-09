@@ -1,3 +1,5 @@
+<!-- Math rendered using GitHub Markdown: use $...$ and $$...$$ -->
+
 # dsai-Mathematical-Foundations-3 (Fixed & Deep)
 
 This repository is a fixed, deep, GitHub-friendly version of the Mathematical Foundations course.
