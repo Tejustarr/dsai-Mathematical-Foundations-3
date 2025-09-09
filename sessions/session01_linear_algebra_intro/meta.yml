@@ -1,0 +1,9 @@
+title: "Session 1 — Introduction to Linear Algebra"
+duration_minutes: 90
+prerequisites: []
+learning_outcomes:
+  - "Represent vectors and matrices in numpy"
+  - "Compute inner products, norms, and projections"
+  - "Understand span, basis, and linear independence"
+  - "Perform change of basis for vectors"
+  - "Identify common matrix types and properties"

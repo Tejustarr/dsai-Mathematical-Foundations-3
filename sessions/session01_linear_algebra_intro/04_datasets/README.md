@@ -1,0 +1,1 @@
+Small point set for 2D transform visualization.

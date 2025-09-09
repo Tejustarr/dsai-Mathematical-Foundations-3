@@ -1,0 +1,10 @@
+title: "Session 2 — Linear Transformations"
+duration_minutes: 120
+prerequisites: ["session01_linear_algebra_intro"]
+learning_outcomes:
+  - "Apply and interpret basic 2D/3D linear transformations"
+  - "Compute determinants and interpret as scaling factor"
+  - "Calculate matrix inverses (general and special matrices)"
+  - "Perform Gram-Schmidt orthogonalization and QR decomposition"
+  - "Compute eigenvalues/eigenvectors and eigenbasis"
+  - "Diagonalize a matrix when possible and interpret geometrically"
