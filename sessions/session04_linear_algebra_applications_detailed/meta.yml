@@ -1,0 +1,8 @@
+title: "Session 4 — Linear Algebra Applications"
+duration_minutes: 150
+prerequisites: ["session01_linear_algebra_intro","session02_linear_transformations","session03_linear_algebra_for_ml"]
+learning_outcomes:
+  - "Compute and interpret covariance matrices"
+  - "Perform PCA and understand variance explained"
+  - "Understand and compute Singular Value Decomposition"
+  - "Apply SVD to compress images and datasets"
